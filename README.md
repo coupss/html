@@ -2,8 +2,6 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=devic-width, initial-scale=1">
-<title> 
- </title>
 </head>
 
 <body bgcolor="F1879E">
