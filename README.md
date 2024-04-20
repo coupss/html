@@ -3,7 +3,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=devic-width, initial-scale=1">
 <title> 
-LIVING IN THE IT ERA
  </title>
 </head>
 
